@@ -1,0 +1,105 @@
+{
+	"OversiktViewModel": {
+		"Id": "0",
+		"Kund": {
+			"Fastigheter": {
+				"Fastighet": [
+					{
+						"Abonnemang": [{
+							"AbonnemangsId": "1",
+							"AbonnemangsNamn": {
+								"_i:nil": "true"
+							},
+							"DygnForbrukning": {
+								"_i:nil": "true"
+							},
+							"FJarrkyla": "false",
+							"Fjarrvarme": "false",
+							"Larm": {
+								"_i:nil": "true"
+							}
+                        }],
+						"FastighetsAdress": "Illergatan 92",
+						"FastighetsId": "4",
+						"FastighetsNamn": "Illern",
+						"Yta": "42"
+					},
+					{
+						"Abonnemang": [{
+							"AbonnemangsId": "2",
+							"AbonnemangsNamn": {
+								"_i:nil": "true"
+							},
+							"DygnForbrukning": {
+								"_i:nil": "true"
+							},
+							"FJarrkyla": "false",
+							"Fjarrvarme": "false",
+							"Larm": {
+								"_i:nil": "true"
+							}
+						}],
+						"FastighetsAdress": "Bävergränd 14",
+						"FastighetsId": "2",
+						"FastighetsNamn": "Bävern",
+						"Yta": "92"
+					},
+					{
+						"Abonnemang": [{
+							"AbonnemangsId": "3",
+							"AbonnemangsNamn": {
+								"_i:nil": "true"
+							},
+							"DygnForbrukning": {
+								"_i:nil": "true"
+							},
+							"FJarrkyla": "false",
+							"Fjarrvarme": "false",
+							"Larm": {
+								"_i:nil": "true"
+							}
+							
+						}],
+						"FastighetsAdress": {
+							"_i:nil": "true"
+						},
+						"FastighetsId": "0",
+						"FastighetsNamn": {
+							"_i:nil": "true"
+						},
+						"Yta": "0"
+					},
+					{
+						"Abonnemang": [{
+							"AbonnemangsId": "4",
+							"AbonnemangsNamn": {
+								"_i:nil": "true"
+							},
+							"DygnForbrukning": {
+								"_i:nil": "true"
+							},
+							"FJarrkyla": "false",
+							"Fjarrvarme": "false",
+							"Larm": {
+								"_i:nil": "true"
+							}
+						}],
+						"FastighetsAdress": {
+							"_i:nil": "true"
+						},
+						"FastighetsId": "0",
+						"FastighetsNamn": {
+							"_i:nil": "true"
+						},
+						"Yta": "0"
+					}
+				]
+			},
+			"Fastighetsgrupper": {
+				"_i:nil": "true"
+			},
+			"KoncernId": "12",
+			"KundId": "111111111"
+		}
+	}
+}
